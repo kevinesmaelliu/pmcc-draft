@@ -1,0 +1,5 @@
+{
+  "name": "PMCC Strategy Simulator",
+  "description": "A comprehensive tool to simulate, track, and analyze Poor Man's Covered Call (PMCC) strategies with AI-powered insights.",
+  "requestFramePermissions": []
+}
